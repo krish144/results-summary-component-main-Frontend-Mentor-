@@ -89,7 +89,7 @@ body{
     font-size: 14px;
 }
 
-.summary-card > div:first-child h3{
+.summary-card > div:first-child h2{
     font-size: 28px;
 }
 
@@ -109,7 +109,7 @@ body{
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 
-.summary-card > div:last-child h4{
+.summary-card > div:last-child h3{
     margin-bottom: 10px;
     color:var(--color-headline)
 }
