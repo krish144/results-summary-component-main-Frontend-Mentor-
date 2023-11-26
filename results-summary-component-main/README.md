@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component
 
-![Design preview for the Results summary component coding challenge](./Screenshot 2023-11-26 123113.jpg)
+![Design preview for the Results summary component coding challenge](Screenshot 2023-11-26 123113.jpg)
 
 ## Welcome! 👋
 
